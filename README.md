@@ -4,4 +4,6 @@
 * Well versed with designing softwares like Figma, Adobe Photoshop and Illustrator, CorelDRAW and Canva.
 * Resume: 
 
-* A small business owner as well :) Check out my shop's website: [InaraCreationsCo](www.inaracreationsco.com)
+* Also a small business owner as well :) 
+
+  *Check out my shop : [InaraCreationsCo](www.inaracreationsco.com)*
