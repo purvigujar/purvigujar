@@ -6,3 +6,4 @@
 * And a small business owner as well :) 
 
   *Check out my shop : [InaraCreationsCo](www.inaracreationsco.com)*
+  [Resume](https://purvigujar.github.io/purvigujar/Purvi_Gujar.pdf)
