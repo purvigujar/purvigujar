@@ -3,6 +3,6 @@
 * Skilled in Java, C++, HTML, CSS and versed with Python and JavaScript.
 * Well versed with designing softwares like Figma, Adobe Photoshop and Illustrator, CorelDRAW and Canva.
 
-* And a small business owner as well :) Check out my shop : [InaraCreationsCo](www.inaracreationsco.com)
+* And a small business owner as well :) Check out my shop : [InaraCreationsCo](https://www.inaracreationsco.com/)
  
  [Resume](https://purvigujar.github.io/purvigujar/Purvi_Gujar.pdf)
