@@ -5,4 +5,4 @@
 
 * And a small business owner as well :) Check out my shop: [InaraCreationsCo](https://www.inaracreationsco.com/)
  
-[Resume](https://purvigujar.github.io/purvigujar/purvigujar/Purvi_Gujar.pdf)
+[Resume](https://purvigujar.github.io/purvigujar/Purvi_Gujar.pdf)
