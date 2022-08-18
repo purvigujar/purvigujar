@@ -7,7 +7,7 @@
 
 🌱 **I’m currently learning:** Web Development! <br>
 💬 **Ask me about:**  UI design & Java. <br>
-💌 **Connect with me:** https://bit.ly/3w8VaGt <br>
+💌 **Connect with me:** purvigujar1@gmail.com <br>
 👾 **A fact about me:** I love cats! 
 <br><br>
 </div>
