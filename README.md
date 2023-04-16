@@ -1,14 +1,14 @@
 <h1 align="center">Hi , I'm Purvi Gujar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">A passionate UI designer & frontend developer from Mumbai, India. ✨</h3>
+<h3 align="center">A passionate UX designer & frontend developer from Mumbai, India. ✨</h3>
 <br>
 
 <div align = "center">
 
 🌱 **I’m currently learning:** Web Development! <br>
-💬 **Ask me about:**  UI design & Java. <br>
+💬 **Ask me about:**  UX & Java. <br>
 💌 **Connect with me:** purvigujar1@gmail.com <br>
-👾 **A fact about me:** I love cats! 
+👾 **A fact about me:** I'm a small biz owner who loves making cute cat drawings >.<
 <br><br>
 </div>
 
